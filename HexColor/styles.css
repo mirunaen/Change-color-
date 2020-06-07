@@ -1,0 +1,14 @@
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hexColor {
+  text-transform: capitalize;
+}
+
+.hex {
+  font-size: 3rem;
+}
