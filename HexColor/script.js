@@ -14,4 +14,7 @@ function getHex() {
     hexCol += hexNumbers[random];
     //console.log(hexCol);
   }
+
+  body.style.backgroundColor = hexCol;
+  hex.innerHTML = hexCol;
 }
