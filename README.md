@@ -1,2 +1,2 @@
 # JS-workshops
-JS mini projects.
+JS mini projects to learn javascript.
